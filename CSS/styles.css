@@ -102,6 +102,18 @@ h3 {
     height: 50%;
 }
 
+.top-cloud {
+    width: 10%;
+    height: 10%;
+}
+
+.bottom-cloud {
+    width: 10%;
+    height: 10%;
+}
+
+
+
 .profile-pic {
     width: 25%;
     height: 25%;
