@@ -59,6 +59,7 @@ hr {
     border-width: 10px;
     width: 5%;
     color: goldenrod;
+    margin: 100px auto;
 
 
 }
@@ -94,6 +95,11 @@ h3 {
     height: 25%;
     border-radius: 50%;
     float: right;
+}
+
+.mountain {
+    width: 50%;
+    height: 50%;
 }
 
 .profile-pic {
